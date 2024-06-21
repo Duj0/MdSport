@@ -2,4 +2,7 @@
 
 ## Sport news website
 
-Dujo, Craby, Mite 
+Dujo, Craby, Mite, Pani
+
+edno novo nachalo
+
