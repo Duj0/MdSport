@@ -1,0 +1,14 @@
+nav{
+    color: green;
+    font-size: 18px;
+    text-align: center;
+}
+nav a{
+    text-decoration: none;
+    color: green;
+    font-size: 23px;
+}
+nav li{
+    display: inline-block;
+    margin:  10px;
+}
